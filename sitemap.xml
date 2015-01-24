@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.sandbox.dev/sitemap-xsl.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+					<loc>http://www.sandbox.dev/</loc>
+							<priority>1</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2014-11-23</lastmod>
+			</url>
+
+	<url>
+					<loc>http://www.sandbox.dev/?p=1</loc>
+							<priority>0.6</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2014-11-23</lastmod>
+			</url>
+
+	<url>
+					<loc>http://www.sandbox.dev/?page_id=2</loc>
+							<priority>0.6</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2014-11-23</lastmod>
+			</url>
+
+
+
+	<url>
+					<loc>http://www.sandbox.dev/?cat=1</loc>
+							<priority>0.4</priority>
+							<changefreq>weekly</changefreq>
+							<lastmod>2014-11-23</lastmod>
+			</url>
+
+
+</urlset>
